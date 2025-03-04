@@ -1,0 +1,3 @@
+/Users/alx/Documents/GitHub/HistoCache/build/CMakeFiles/MyProject.dir
+/Users/alx/Documents/GitHub/HistoCache/build/CMakeFiles/edit_cache.dir
+/Users/alx/Documents/GitHub/HistoCache/build/CMakeFiles/rebuild_cache.dir
